@@ -17,7 +17,25 @@ header, main, footer {
 
 header {
 	background: white;
+	overflow: auto;
 }
+
+header h1 {
+	float: left;
+	width: 570px;
+}
+
+header nav {
+	float: right;
+	width: 285x;
+}
+
  main {
 	 background: white;
+	float: center;
+ }
+ 
+ footer .sitemap {
+	 float: right;
+	 margin; auto; 
  }
